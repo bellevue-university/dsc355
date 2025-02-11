@@ -1,1 +1,1 @@
-# Public Repo for Bellevue University dsc410 - Predictive Analytics
+# Public Repo for Bellevue University DSC 355 - Predictive Analytics
